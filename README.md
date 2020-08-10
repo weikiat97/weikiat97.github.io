@@ -1,3 +1,3 @@
 # weikiat97.github.io
 
-Personal Portfolio Page
+Visit https://weikiat97.github.io to view my portfolio!
